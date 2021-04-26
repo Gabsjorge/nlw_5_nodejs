@@ -1,4 +1,4 @@
-# Project Title
+# NLW 05 - Chat widget using Websocket protocol
 
 ## Table of Contents
 + [About](#about)
